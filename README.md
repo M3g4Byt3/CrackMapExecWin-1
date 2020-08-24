@@ -13,6 +13,7 @@ CrackMapExec v5.1.0 compiled for Windows
 
 # Usage
 
+- Download Crackmapexec from Release section (https://github.com/MichaelKCortez/CrackMapExecWin/archive/5.1.0.zip)
 - Download and Install the VC_redist.x64.exe 'Microsoft Visual C++ 2017 Redistributable (x64)'  (https://download.visualstudio.microsoft.com/download/pr/4100b84d-1b4d-487d-9f89-1354a7138c8f/5B0CBB977F2F5253B1EBE5C9D30EDBDA35DBD68FB70DE7AF5FAAC6423DB575B5/VC_redist.x64.exe)
 - Download and Install the Win64OpenSSL-1_1_1g  (https://slproweb.com/download/Win64OpenSSL-1_1_1g.msi)
 - Add OpenSSL directory to Environment Variables PATH
